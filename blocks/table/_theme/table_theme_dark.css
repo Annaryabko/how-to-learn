@@ -2,9 +2,3 @@
   position: relative;
   z-index: 1;
 }
-
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-top: 80px;
-}
