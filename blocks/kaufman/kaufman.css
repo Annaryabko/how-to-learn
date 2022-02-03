@@ -4,15 +4,3 @@
   position: relative;
   overflow: hidden;
 }
-
-/* .kaufman__triangle {
-  position: absolute;
-  background-image: url(../../images/kaufman-triangle.svg);
-  background-size: contain;
-  background-repeat: no-repeat;
-  right: -210px;
-  top: 0;
-  width: 877px;
-  height: 877px;
-  z-index: 0;
-} */
